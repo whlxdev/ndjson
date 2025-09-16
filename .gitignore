@@ -1,0 +1,12 @@
+# Build output directories
+bin/
+obj/
+build/
+
+# Editor-specific settings and configurations
+.vscode/
+.idea/
+*.user
+
+# OS specific
+*.DS_Store
